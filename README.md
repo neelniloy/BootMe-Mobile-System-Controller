@@ -8,7 +8,7 @@
 
 # Preview Images
 1. Check Root Or Not
-<img src = "1.png" width="360" height="720" />
+<img src = "ss1.png" width="360" height="720" />
 
 2. Main Feature
-<img src = "2.png" width="360" height="720" />
+<img src = "ss2.png" width="360" height="720" />
